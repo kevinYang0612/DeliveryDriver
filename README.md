@@ -14,7 +14,7 @@ Delivery Drive is a 2D top-down view driving game where players navigate a small
 To get started with Delivery Drive:
 
 1. **Clone the Repository:**  
-   `git clone https://github.com/kevinYang0612/delivery-drive.git`
+   `git clone https://github.com/kevinYang0612/DeliveryDriver.git`
 
 2. **Open the Project in Unity:**  
    Launch Unity Hub, click on 'Add' and browse to the cloned repository folder. Open the project in your Unity Editor.
