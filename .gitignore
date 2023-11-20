@@ -17,7 +17,6 @@
 [Ee]xported[Oo]bj/
 .vs/
 .vscode/
-*.csproj
 *.unityproj
 *.sln
 *.suo
